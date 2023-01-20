@@ -1,0 +1,27 @@
+.social-items-container a {
+    color: #469cb4;
+  }
+  .images {
+    height: 175px;
+    background-size: cover;
+    position: relative;
+  }
+
+  .images-1 {
+    background-image: url('../images/mountains/mountain-1.jpg');
+  }
+
+  .images-2 {
+    background-image: url('../images/mountains/mountain-2.jpg');
+  }
+
+  .images-3 {
+    background-image: url('../images/mountains/mountain-3.jpg');
+  }
+
+
+  .images img.person {
+    width: 120px;
+    position: absolute;
+    bottom: -60px;
+  }
